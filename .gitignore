@@ -1,0 +1,7 @@
+bam/
+results/
+data/
+old_data/
+genomes/
+2020-04-06_results.tar.gz
+.DS_Store
