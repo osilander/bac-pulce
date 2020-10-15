@@ -1,0 +1,10 @@
+name: bracken2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - kraken2=2.0.8
+  - python=3.7.4
+  - bracken=2.5
+prefix: prefix: /home/olin/miniconda3/envs/bracken2

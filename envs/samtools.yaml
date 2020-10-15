@@ -1,0 +1,8 @@
+#nothing here yet
+name: kracken
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+#prefix: prefix: /home/olin/miniconda3/envs/bracken
